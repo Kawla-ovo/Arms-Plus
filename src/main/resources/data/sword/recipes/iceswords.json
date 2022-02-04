@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    " 45",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:blue_ice"
+    },
+    "2": {
+      "item": "minecraft:blue_ice"
+    },
+    "4": {
+      "item": "sword:emerald_sword"
+    },
+    "5": {
+      "item": "minecraft:blue_ice"
+    },
+    "6": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "sword:ice_sword",
+    "count": 1
+  }
+}

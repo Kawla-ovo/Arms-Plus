@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    "34 ",
+    "67 "
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:blaze_powder"
+    },
+    "3": {
+      "item": "minecraft:magma_cream"
+    },
+    "4": {
+      "item": "sword:emerald_sword"
+    },
+    "6": {
+      "item": "minecraft:blaze_rod"
+    },
+    "7": {
+      "item": "minecraft:magma_cream"
+    }
+  },
+  "result": {
+    "item": "sword:fire_sword",
+    "count": 1
+  }
+}

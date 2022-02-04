@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    " 45",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:magma_block"
+    },
+    "2": {
+      "item": "minecraft:magma_block"
+    },
+    "4": {
+      "item": "sword:emerald_sword"
+    },
+    "5": {
+      "item": "minecraft:magma_block"
+    },
+    "6": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "sword:lava_sword",
+    "count": 1
+  }
+}

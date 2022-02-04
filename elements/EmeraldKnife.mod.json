@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "sss",
+    "customModelName": "Normal",
+    "name": "Emerald Knife",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Swordplus"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 3.0,
+    "attackSpeed": 5.0,
+    "enchantability": 12,
+    "damageVsEntity": 4.0,
+    "usageCount": 300,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.EMERALD"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

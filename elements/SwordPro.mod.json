@@ -1,0 +1,34 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "sword_pro",
+    "customModelName": "Normal",
+    "name": "Sword Pro",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Swordplus"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 3.0,
+    "attackSpeed": 1.2000000000000002,
+    "enchantability": 14,
+    "damageVsEntity": 20.0,
+    "usageCount": 800,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:EmeraldSword"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "SwordProDangShiTiBeiGongJuJiZhongShi"
+    }
+  }
+}

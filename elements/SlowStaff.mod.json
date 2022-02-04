@@ -1,0 +1,40 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "slow",
+    "customModelName": "Normal",
+    "name": "Slow Staff",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Swordplus"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "Items.ENDER_EYE"
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.5,
+    "bulletDamage": 7.0,
+    "bulletKnockback": 1,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "Items.ENDER_EYE"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsEntity": {
+      "name": "SlowStaffDangTouZhiWuJiZhongShiTiShi"
+    }
+  }
+}

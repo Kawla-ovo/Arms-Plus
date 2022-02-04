@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    " 45",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:emerald_block"
+    },
+    "2": {
+      "item": "minecraft:emerald_block"
+    },
+    "4": {
+      "item": "sword:emerald_sword"
+    },
+    "5": {
+      "item": "minecraft:emerald_block"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sword:sword_pro",
+    "count": 1
+  }
+}
